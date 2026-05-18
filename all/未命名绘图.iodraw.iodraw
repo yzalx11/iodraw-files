@@ -7,11 +7,17 @@
         <mxCell id="LoR7M_67zhyZaBg3-zlW-1" value="开始输入:&lt;br&gt;用户问题+对话历史" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LoR7M_67zhyZaBg3-zlW-2" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="LoR7M_67zhyZaBg3-zlW-1">
+        <mxCell id="LoR7M_67zhyZaBg3-zlW-2" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="LoR7M_67zhyZaBg3-zlW-1" target="LoR7M_67zhyZaBg3-zlW-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="470" as="sourcePoint" />
             <mxPoint x="250" y="170" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="LoR7M_67zhyZaBg3-zlW-3" value="提示词构建，整合System与Human消息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LoR7M_67zhyZaBg3-zlW-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="410" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
