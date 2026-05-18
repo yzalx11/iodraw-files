@@ -170,6 +170,9 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="500" y="1200" as="sourcePoint" />
             <mxPoint x="550" y="1150" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="130" y="1040" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="LoR7M_67zhyZaBg3-zlW-52" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
