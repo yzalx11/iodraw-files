@@ -40,15 +40,10 @@
         <mxCell id="LoR7M_67zhyZaBg3-zlW-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LoR7M_67zhyZaBg3-zlW-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="LoR7M_67zhyZaBg3-zlW-8" target="LoR7M_67zhyZaBg3-zlW-17">
+        <mxCell id="LoR7M_67zhyZaBg3-zlW-19" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="LoR7M_67zhyZaBg3-zlW-4" target="LoR7M_67zhyZaBg3-zlW-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="420" y="200" as="sourcePoint" />
-            <mxPoint x="350" y="270" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="600" y="240" />
-              <mxPoint x="420" y="240" />
-              <mxPoint x="510" y="240" />
-            </Array>
+            <mxPoint x="390" y="470" as="sourcePoint" />
+            <mxPoint x="440" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
