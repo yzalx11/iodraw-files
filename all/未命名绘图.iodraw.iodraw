@@ -95,8 +95,11 @@
         <mxCell id="LoR7M_67zhyZaBg3-zlW-30" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="LoR7M_67zhyZaBg3-zlW-29">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="470" as="sourcePoint" />
-            <mxPoint x="440" y="420" as="targetPoint" />
+            <mxPoint x="390" y="425" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="LoR7M_67zhyZaBg3-zlW-31" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="410" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
