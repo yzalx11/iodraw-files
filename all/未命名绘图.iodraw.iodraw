@@ -142,11 +142,14 @@
         <mxCell id="LoR7M_67zhyZaBg3-zlW-43" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;最终回答输出&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="655" width="160" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="LoR7M_67zhyZaBg3-zlW-44" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="LoR7M_67zhyZaBg3-zlW-44" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="LoR7M_67zhyZaBg3-zlW-43" target="LoR7M_67zhyZaBg3-zlW-42">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="500" y="490" as="sourcePoint" />
             <mxPoint x="550" y="440" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="LoR7M_67zhyZaBg3-zlW-45" value="&lt;span style=&quot;color: rgb(6, 10, 38); font-family: &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Segoe UI&amp;quot;, system-ui, Roboto, &amp;quot;Noto Sans SC&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Arial, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: pre-line; background-color: rgb(235, 245, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;五级检索流水线流程图&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="850" width="190" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
