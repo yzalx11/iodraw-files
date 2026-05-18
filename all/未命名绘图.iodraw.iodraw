@@ -26,7 +26,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LoR7M_67zhyZaBg3-zlW-8" value="AgentExecutor执行" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="250" width="120" height="60" as="geometry" />
+          <mxGeometry x="190" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LoR7M_67zhyZaBg3-zlW-13" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="60" y="40" width="100" height="60" as="geometry" />
@@ -37,8 +37,11 @@
             <mxPoint x="440" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LoR7M_67zhyZaBg3-zlW-15" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="326.88" y="106.88" width="66.25" height="230" as="geometry" />
+        <mxCell id="LoR7M_67zhyZaBg3-zlW-16" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="LoR7M_67zhyZaBg3-zlW-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="470" as="sourcePoint" />
+            <mxPoint x="440" y="420" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
