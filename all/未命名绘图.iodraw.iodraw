@@ -4,49 +4,49 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="LoR7M_67zhyZaBg3-zlW-2" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="LoR7M_67zhyZaBg3-zlW-3">
+        <mxCell id="LoR7M_67zhyZaBg3-zlW-2" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" target="LoR7M_67zhyZaBg3-zlW-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="170" y="170" as="sourcePoint" />
             <mxPoint x="250" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LoR7M_67zhyZaBg3-zlW-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;提示词构建，&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;整合System与Human消息&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LoR7M_67zhyZaBg3-zlW-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;提示词构建，&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;整合System与Human消息&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="220" y="140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LoR7M_67zhyZaBg3-zlW-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;模型推理阶段&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LoR7M_67zhyZaBg3-zlW-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;模型推理阶段&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LoR7M_67zhyZaBg3-zlW-7" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="LoR7M_67zhyZaBg3-zlW-3" target="LoR7M_67zhyZaBg3-zlW-4">
+        <mxCell id="LoR7M_67zhyZaBg3-zlW-7" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" source="LoR7M_67zhyZaBg3-zlW-3" target="LoR7M_67zhyZaBg3-zlW-4" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="470" as="sourcePoint" />
             <mxPoint x="440" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LoR7M_67zhyZaBg3-zlW-8" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;AgentExecutor执行&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LoR7M_67zhyZaBg3-zlW-8" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;AgentExecutor执行&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="540" y="140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LoR7M_67zhyZaBg3-zlW-13" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;开始&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="LoR7M_67zhyZaBg3-zlW-13" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;开始&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="60" y="40" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LoR7M_67zhyZaBg3-zlW-14" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="LoR7M_67zhyZaBg3-zlW-13">
+        <mxCell id="LoR7M_67zhyZaBg3-zlW-14" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" source="LoR7M_67zhyZaBg3-zlW-13" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="470" as="sourcePoint" />
             <mxPoint x="110" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LoR7M_67zhyZaBg3-zlW-17" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Thought推理&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LoR7M_67zhyZaBg3-zlW-17" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Thought推理&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="420" y="250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LoR7M_67zhyZaBg3-zlW-19" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="LoR7M_67zhyZaBg3-zlW-4" target="LoR7M_67zhyZaBg3-zlW-8">
+        <mxCell id="LoR7M_67zhyZaBg3-zlW-19" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" source="LoR7M_67zhyZaBg3-zlW-4" target="LoR7M_67zhyZaBg3-zlW-8" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="470" as="sourcePoint" />
             <mxPoint x="440" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LoR7M_67zhyZaBg3-zlW-20" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Action工具选择&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LoR7M_67zhyZaBg3-zlW-20" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Action工具选择&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="660" y="250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LoR7M_67zhyZaBg3-zlW-23" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LoR7M_67zhyZaBg3-zlW-8" target="LoR7M_67zhyZaBg3-zlW-17">
+        <mxCell id="LoR7M_67zhyZaBg3-zlW-23" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="LoR7M_67zhyZaBg3-zlW-8" target="LoR7M_67zhyZaBg3-zlW-17" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="470" as="sourcePoint" />
             <mxPoint x="440" y="420" as="targetPoint" />
@@ -56,7 +56,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LoR7M_67zhyZaBg3-zlW-24" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LoR7M_67zhyZaBg3-zlW-8" target="LoR7M_67zhyZaBg3-zlW-20">
+        <mxCell id="LoR7M_67zhyZaBg3-zlW-24" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="LoR7M_67zhyZaBg3-zlW-8" target="LoR7M_67zhyZaBg3-zlW-20" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="470" as="sourcePoint" />
             <mxPoint x="440" y="420" as="targetPoint" />
@@ -66,13 +66,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LoR7M_67zhyZaBg3-zlW-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LoR7M_67zhyZaBg3-zlW-25" target="LoR7M_67zhyZaBg3-zlW-3">
+        <mxCell id="LoR7M_67zhyZaBg3-zlW-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LoR7M_67zhyZaBg3-zlW-25" target="LoR7M_67zhyZaBg3-zlW-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LoR7M_67zhyZaBg3-zlW-25" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;开始输入:&lt;br&gt;用户问题+对话历史&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="LoR7M_67zhyZaBg3-zlW-25" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;开始输入:&lt;br&gt;用户问题+对话历史&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="20" y="140" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LoR7M_67zhyZaBg3-zlW-27" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="LoR7M_67zhyZaBg3-zlW-17">
+        <mxCell id="LoR7M_67zhyZaBg3-zlW-27" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="LoR7M_67zhyZaBg3-zlW-17" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="470" as="sourcePoint" />
             <mxPoint x="600" y="390" as="targetPoint" />
@@ -82,7 +82,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LoR7M_67zhyZaBg3-zlW-28" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="LoR7M_67zhyZaBg3-zlW-20">
+        <mxCell id="LoR7M_67zhyZaBg3-zlW-28" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="LoR7M_67zhyZaBg3-zlW-20" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="470" as="sourcePoint" />
             <mxPoint x="600" y="390" as="targetPoint" />
@@ -92,28 +92,28 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LoR7M_67zhyZaBg3-zlW-29" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Observation工具返回&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="LoR7M_67zhyZaBg3-zlW-29" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Observation工具返回&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="520" y="370" width="160" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="LoR7M_67zhyZaBg3-zlW-30" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LoR7M_67zhyZaBg3-zlW-29" target="LoR7M_67zhyZaBg3-zlW-31">
+        <mxCell id="LoR7M_67zhyZaBg3-zlW-30" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="LoR7M_67zhyZaBg3-zlW-29" target="LoR7M_67zhyZaBg3-zlW-31" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="470" as="sourcePoint" />
             <mxPoint x="570" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LoR7M_67zhyZaBg3-zlW-31" value="&lt;span style=&quot;color: rgb(57, 58, 52); font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace; text-align: left; white-space: pre-wrap; background-color: rgba(17, 17, 51, 0.02);&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;是否达到最大迭代次数&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(57, 58, 52); font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace; text-align: left; white-space: pre-wrap; background-color: rgba(17, 17, 51, 0.02);&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;或&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(57, 58, 52); font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace; text-align: left; white-space: pre-wrap; background-color: rgba(17, 17, 51, 0.02);&quot;&gt;&lt;font size=&quot;3&quot;&gt;是否生成最终答案&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(57, 58, 52); font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace; font-size: 13px; text-align: left; white-space: pre-wrap; background-color: rgba(17, 17, 51, 0.02);&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LoR7M_67zhyZaBg3-zlW-31" value="&lt;span style=&quot;color: rgb(57, 58, 52); font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace; text-align: left; white-space: pre-wrap; background-color: rgba(17, 17, 51, 0.02);&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;是否达到最大迭代次数&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(57, 58, 52); font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace; text-align: left; white-space: pre-wrap; background-color: rgba(17, 17, 51, 0.02);&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;或&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(57, 58, 52); font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace; text-align: left; white-space: pre-wrap; background-color: rgba(17, 17, 51, 0.02);&quot;&gt;&lt;font size=&quot;3&quot;&gt;是否生成最终答案&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(57, 58, 52); font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace; font-size: 13px; text-align: left; white-space: pre-wrap; background-color: rgba(17, 17, 51, 0.02);&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="470" y="470" width="260" height="115" as="geometry" />
         </mxCell>
-        <mxCell id="LoR7M_67zhyZaBg3-zlW-33" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="LoR7M_67zhyZaBg3-zlW-31" target="LoR7M_67zhyZaBg3-zlW-37">
+        <mxCell id="LoR7M_67zhyZaBg3-zlW-33" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="LoR7M_67zhyZaBg3-zlW-31" target="LoR7M_67zhyZaBg3-zlW-37" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="470" as="sourcePoint" />
             <mxPoint x="595" y="660" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LoR7M_67zhyZaBg3-zlW-34" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Y&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="LoR7M_67zhyZaBg3-zlW-34" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Y&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="560" y="600" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LoR7M_67zhyZaBg3-zlW-35" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LoR7M_67zhyZaBg3-zlW-31" target="LoR7M_67zhyZaBg3-zlW-8">
+        <mxCell id="LoR7M_67zhyZaBg3-zlW-35" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="LoR7M_67zhyZaBg3-zlW-31" target="LoR7M_67zhyZaBg3-zlW-8" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="500" y="370" as="sourcePoint" />
             <mxPoint x="890" y="160" as="targetPoint" />
@@ -124,49 +124,49 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LoR7M_67zhyZaBg3-zlW-36" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;N&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="LoR7M_67zhyZaBg3-zlW-36" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;N&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="790" y="490" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LoR7M_67zhyZaBg3-zlW-37" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;ICEL管道进行修订，规范化&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LoR7M_67zhyZaBg3-zlW-37" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;ICEL管道进行修订，规范化&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="510" y="660" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LoR7M_67zhyZaBg3-zlW-41" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="LoR7M_67zhyZaBg3-zlW-37">
+        <mxCell id="LoR7M_67zhyZaBg3-zlW-41" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="LoR7M_67zhyZaBg3-zlW-37" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="430" y="710" as="sourcePoint" />
             <mxPoint x="400" y="690" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LoR7M_67zhyZaBg3-zlW-42" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;结束&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="LoR7M_67zhyZaBg3-zlW-42" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;结束&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="60" y="660" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LoR7M_67zhyZaBg3-zlW-43" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;最终回答输出&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="LoR7M_67zhyZaBg3-zlW-43" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;最终回答输出&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="250" y="655" width="160" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="LoR7M_67zhyZaBg3-zlW-44" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="LoR7M_67zhyZaBg3-zlW-43" target="LoR7M_67zhyZaBg3-zlW-42">
+        <mxCell id="LoR7M_67zhyZaBg3-zlW-44" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="LoR7M_67zhyZaBg3-zlW-43" target="LoR7M_67zhyZaBg3-zlW-42" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="500" y="490" as="sourcePoint" />
             <mxPoint x="550" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LoR7M_67zhyZaBg3-zlW-46" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;开始&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="LoR7M_67zhyZaBg3-zlW-46" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;开始&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="290" y="860" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LoR7M_67zhyZaBg3-zlW-47" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;结束&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="LoR7M_67zhyZaBg3-zlW-47" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;结束&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="290" y="1390" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LoR7M_67zhyZaBg3-zlW-48" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;第一级&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;BM25+Vector&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;关键词扩展与混合召回&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LoR7M_67zhyZaBg3-zlW-48" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;第一级&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;BM25+Vector&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;关键词扩展与混合召回&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="30" y="1109" width="170" height="81" as="geometry" />
         </mxCell>
-        <mxCell id="LoR7M_67zhyZaBg3-zlW-49" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;用户查询&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="LoR7M_67zhyZaBg3-zlW-49" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;用户查询&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="980" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LoR7M_67zhyZaBg3-zlW-50" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="LoR7M_67zhyZaBg3-zlW-46" target="LoR7M_67zhyZaBg3-zlW-49">
+        <mxCell id="LoR7M_67zhyZaBg3-zlW-50" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="LoR7M_67zhyZaBg3-zlW-46" target="LoR7M_67zhyZaBg3-zlW-49" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="500" y="1200" as="sourcePoint" />
             <mxPoint x="550" y="1150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LoR7M_67zhyZaBg3-zlW-51" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="LoR7M_67zhyZaBg3-zlW-49" target="LoR7M_67zhyZaBg3-zlW-48">
+        <mxCell id="LoR7M_67zhyZaBg3-zlW-51" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="LoR7M_67zhyZaBg3-zlW-49" target="LoR7M_67zhyZaBg3-zlW-48" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="500" y="1200" as="sourcePoint" />
             <mxPoint x="550" y="1150" as="targetPoint" />
@@ -175,55 +175,55 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LoR7M_67zhyZaBg3-zlW-52" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;第二级&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;标题域匹配预筛选&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LoR7M_67zhyZaBg3-zlW-52" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;第二级&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;标题域匹配预筛选&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="270" y="1109" width="140" height="81" as="geometry" />
         </mxCell>
-        <mxCell id="LoR7M_67zhyZaBg3-zlW-53" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LoR7M_67zhyZaBg3-zlW-48" target="LoR7M_67zhyZaBg3-zlW-52">
+        <mxCell id="LoR7M_67zhyZaBg3-zlW-53" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="LoR7M_67zhyZaBg3-zlW-48" target="LoR7M_67zhyZaBg3-zlW-52" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="500" y="1200" as="sourcePoint" />
             <mxPoint x="280" y="1140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LoR7M_67zhyZaBg3-zlW-54" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;第三级&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;LLM重排序&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LoR7M_67zhyZaBg3-zlW-54" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;第三级&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;LLM重排序&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="1109" width="120" height="81" as="geometry" />
         </mxCell>
-        <mxCell id="LoR7M_67zhyZaBg3-zlW-55" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LoR7M_67zhyZaBg3-zlW-52" target="LoR7M_67zhyZaBg3-zlW-54">
+        <mxCell id="LoR7M_67zhyZaBg3-zlW-55" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="LoR7M_67zhyZaBg3-zlW-52" target="LoR7M_67zhyZaBg3-zlW-54" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="500" y="1200" as="sourcePoint" />
             <mxPoint x="550" y="1150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LoR7M_67zhyZaBg3-zlW-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="LoR7M_67zhyZaBg3-zlW-54" target="LoR7M_67zhyZaBg3-zlW-54">
+        <mxCell id="LoR7M_67zhyZaBg3-zlW-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="LoR7M_67zhyZaBg3-zlW-54" target="LoR7M_67zhyZaBg3-zlW-54" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LoR7M_67zhyZaBg3-zlW-57" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;第四级&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;分数缺口检测&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LoR7M_67zhyZaBg3-zlW-57" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;第四级&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;分数缺口检测&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="1210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LoR7M_67zhyZaBg3-zlW-58" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="LoR7M_67zhyZaBg3-zlW-54" target="LoR7M_67zhyZaBg3-zlW-57">
+        <mxCell id="LoR7M_67zhyZaBg3-zlW-58" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" source="LoR7M_67zhyZaBg3-zlW-54" target="LoR7M_67zhyZaBg3-zlW-57" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="500" y="1200" as="sourcePoint" />
             <mxPoint x="550" y="1150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LoR7M_67zhyZaBg3-zlW-59" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;最低分阈值过滤&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LoR7M_67zhyZaBg3-zlW-59" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;最低分阈值过滤&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="1210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LoR7M_67zhyZaBg3-zlW-60" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="LoR7M_67zhyZaBg3-zlW-57" target="LoR7M_67zhyZaBg3-zlW-59">
+        <mxCell id="LoR7M_67zhyZaBg3-zlW-60" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="LoR7M_67zhyZaBg3-zlW-57" target="LoR7M_67zhyZaBg3-zlW-59" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="500" y="1190" as="sourcePoint" />
             <mxPoint x="550" y="1140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LoR7M_67zhyZaBg3-zlW-61" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;高质量片段集合&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="LoR7M_67zhyZaBg3-zlW-61" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;高质量片段集合&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="1300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LoR7M_67zhyZaBg3-zlW-62" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="LoR7M_67zhyZaBg3-zlW-59" target="LoR7M_67zhyZaBg3-zlW-61">
+        <mxCell id="LoR7M_67zhyZaBg3-zlW-62" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="LoR7M_67zhyZaBg3-zlW-59" target="LoR7M_67zhyZaBg3-zlW-61" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="500" y="1200" as="sourcePoint" />
             <mxPoint x="550" y="1150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LoR7M_67zhyZaBg3-zlW-63" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="LoR7M_67zhyZaBg3-zlW-61" target="LoR7M_67zhyZaBg3-zlW-47">
+        <mxCell id="LoR7M_67zhyZaBg3-zlW-63" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="LoR7M_67zhyZaBg3-zlW-61" target="LoR7M_67zhyZaBg3-zlW-47" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="500" y="1200" as="sourcePoint" />
             <mxPoint x="550" y="1150" as="targetPoint" />
