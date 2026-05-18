@@ -49,6 +49,15 @@
         <mxCell id="LoR7M_67zhyZaBg3-zlW-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="250" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="LoR7M_67zhyZaBg3-zlW-23" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LoR7M_67zhyZaBg3-zlW-8" target="LoR7M_67zhyZaBg3-zlW-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="470" as="sourcePoint" />
+            <mxPoint x="440" y="420" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="600" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
