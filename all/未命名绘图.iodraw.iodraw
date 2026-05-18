@@ -155,7 +155,7 @@
           <mxGeometry x="290" y="1390" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LoR7M_67zhyZaBg3-zlW-48" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;第一级，BM25+Vector&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;关键词扩展与混合召回&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="1109" width="120" height="60" as="geometry" />
+          <mxGeometry x="40" y="1109" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LoR7M_67zhyZaBg3-zlW-49" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;用户查询&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="980" width="120" height="60" as="geometry" />
