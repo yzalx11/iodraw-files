@@ -70,12 +70,16 @@
           <mxGeometry x="40" y="140" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LoR7M_67zhyZaBg3-zlW-26" value="Observation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="540" y="390" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LoR7M_67zhyZaBg3-zlW-27" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="LoR7M_67zhyZaBg3-zlW-17">
+        <mxCell id="LoR7M_67zhyZaBg3-zlW-27" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="LoR7M_67zhyZaBg3-zlW-17" target="LoR7M_67zhyZaBg3-zlW-26">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="470" as="sourcePoint" />
             <mxPoint x="440" y="420" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="480" y="340" />
+              <mxPoint x="600" y="320" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
