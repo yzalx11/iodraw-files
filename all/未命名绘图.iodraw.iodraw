@@ -10,7 +10,7 @@
             <mxPoint x="250" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LoR7M_67zhyZaBg3-zlW-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;提示词构建，整合System与Human消息&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LoR7M_67zhyZaBg3-zlW-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;提示词构建，&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;整合System与Human消息&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LoR7M_67zhyZaBg3-zlW-4" value="模型推理阶段" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -65,6 +65,9 @@
               <mxPoint x="720" y="220" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="LoR7M_67zhyZaBg3-zlW-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LoR7M_67zhyZaBg3-zlW-25" target="LoR7M_67zhyZaBg3-zlW-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LoR7M_67zhyZaBg3-zlW-25" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;开始输入:&lt;br&gt;用户问题+对话历史&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="140" width="150" height="60" as="geometry" />
