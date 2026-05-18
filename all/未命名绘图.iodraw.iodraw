@@ -98,7 +98,7 @@
             <mxPoint x="390" y="425" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LoR7M_67zhyZaBg3-zlW-31" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LoR7M_67zhyZaBg3-zlW-31" value="&lt;span style=&quot;color: rgb(57, 58, 52); font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace; font-size: 13px; text-align: left; white-space: pre-wrap; background-color: rgba(17, 17, 51, 0.02);&quot;&gt;是否达到最大迭代次数?&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(57, 58, 52); font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace; font-size: 13px; text-align: left; white-space: pre-wrap; background-color: rgba(17, 17, 51, 0.02);&quot;&gt;是否生成最终答案?&lt;/span&gt;&lt;span style=&quot;color: rgb(57, 58, 52); font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, monospace; font-size: 13px; text-align: left; white-space: pre-wrap; background-color: rgba(17, 17, 51, 0.02);&quot;&gt;&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="385" width="110" height="80" as="geometry" />
         </mxCell>
       </root>
